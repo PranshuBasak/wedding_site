@@ -1,0 +1,1 @@
+"use strict";jQuery,document.querySelectorAll(".slider-box").forEach((function(e,r){var l=e.querySelector(".slider-box__swiper"),o=e.querySelector(".slider-box__button--next"),t=e.querySelector(".slider-box__button--prev"),i=e.querySelector(".slider-box__scrollbar");new Swiper(l,{slidesPerView:1,spaceBetween:30,navigation:{nextEl:o,prevEl:t},scrollbar:{el:i,hide:!1}})}));

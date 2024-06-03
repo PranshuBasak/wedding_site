@@ -1,0 +1,20 @@
+/*
+ * Theme Name:  Lutetia
+ * Description: Lutetia theme.
+ * Template:    azds-default
+ * Version: 1.0.0
+ * Author: AZDS
+*/
+:root {
+    --color-brand: #1a1a1a;
+    --color-primary: #651D32;
+    --color-primary-rgb: 101, 29, 50;
+    --color-secondary: #470820;
+    --color-accent: #7D9DB5;
+    --color-paragraph: #65727D;
+    --color-background: #EBF0F5;
+    --color-image-hover: #BADCF7;
+    --color-image-hover-rgb: 186, 220, 247;
+    --color-form-success: #584446;
+    --color-form-error: #B2A8A2;
+}

@@ -1,0 +1,64 @@
+@font-face {
+  font-family: "GT Ultra Fine Light";
+  font-weight: 300;
+  font-display: swap;
+  src: url("https://www.hotellutetia.com/content/themes/azds-default/__html/dist/font/GT-Ultra-Fine-Light.woff2") format("woff2");
+}
+@font-face {
+  font-family: "GT Ultra Fine Thin";
+  font-weight: 100;
+  font-display: swap;
+  src: url("https://www.hotellutetia.com/content/themes/azds-default/__html/dist/font/GT-Ultra-Fine-Thin.woff2") format("woff2");
+}
+@font-face {
+  font-family: "GT Ultra Median Light";
+  font-weight: 300;
+  font-display: swap;
+  src: url("https://www.hotellutetia.com/content/themes/azds-default/__html/dist/font/GT-Ultra-Median-Light.woff2") format("woff2");
+}
+@font-face {
+  font-family: "GT Ultra Standart";
+  font-weight: 400;
+  font-display: swap;
+  src: url("https://www.hotellutetia.com/content/themes/azds-default/__html/dist/font/GT-Ultra-Standard-Regular.woff2") format("woff2");
+}
+@font-face {
+  font-family: "GT Ultra Standart";
+  font-weight: 100;
+  font-display: swap;
+  src: url("https://www.hotellutetia.com/content/themes/azds-default/__html/dist/font/GT-Ultra-Standard-Thin.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Sneak";
+  font-weight: 500;
+  font-display: swap;
+  src: url("https://www.hotellutetia.com/content/themes/azds-default/__html/dist/font/Sneak-Medium.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Sneak";
+  font-weight: 400;
+  font-display: swap;
+  src: url("https://www.hotellutetia.com/content/themes/azds-default/__html/dist/font/Sneak-Regular.woff2") format("woff2");
+}
+:root {
+  --font-family-title: "Sneak", Sans-serif, serif;
+  --font-family-title-light: "Sneak", Sans-serif, serif;
+  --font-family-subtitle: "Sneak", Sans-serif, serif;
+  --title-font-primary: "GT Ultra Standart", Sans-serif, serif;
+  --title-font-secondary: "GT Ultra Standart", Sans-serif, serif;
+  --title-font-tertiary: "GT Ultra Standart", Sans-serif, serif;
+  --title-font-quaternary: "Sneak", Sans-serif, serif;
+  --font-median-light: "GT Ultra Median Light", Sans-serif, serif;
+  --font-family-base: "GT Ultra Standart", Sans-serif, serif;
+  --font-family-base-alt: "Sneak", Sans-serif, serif;
+  --font-family-base-thin: "GT Ultra Fine Thin", Sans-serif, serif;
+  --font-family-base-light: "GT Ultra Fine Light", Sans-serif, serif;
+  --font-family-base-semi: "GT Ultra Standart", Sans-serif, serif;
+  --font-family-base-bold: "Sneak", Sans-serif, serif;
+  --font-family-logo: "Sneak", Sans-serif, serif;
+  --btn-font-family: "GT Ultra Standart", Sans-serif, serif;
+  --tabs-font-family: "GT Ultra Standart", Sans-serif, serif;
+  --accordion-title-font-family: "GT Ultra Median Light", Sans-serif, serif;
+  --accordion-content-font: "Sneak", Sans-serif, serif;
+}
+/*# sourceMappingURL=config.latin.css.map */
